@@ -1,0 +1,21 @@
+# Data
+*.csv
+*.pfl
+*.h5
+*.hdf5
+*.npy
+*.npz
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+_pycache_/
+*.pyc
+
+# Generated plots
+plots_rep/
+
+# OS
+.DS_Store
+
